@@ -1,5 +1,5 @@
 #!/bin/bash
-secret="4451023506896290666356006a67ce93"
+secret="9f3a2c4d8b7e6f1a2233445566778899"
 port=8443
 statport=8888
 domain="cloudflare.com"
